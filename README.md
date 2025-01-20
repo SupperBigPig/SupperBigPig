@@ -1,6 +1,3 @@
-I'm happy to help you create a profile README for your GitHub profile. Below is a template that you can customize to suit your preferences:
-
-```markdown
 # Hi there, I'm SupperBigPig! 👋
 
 ![GitHub followers](https://img.shields.io/github/followers/SupperBigPig?style=social)
@@ -50,6 +47,3 @@ Here are some of the projects I've worked on:
 [![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white)](mailto:YourEmail@example.com)
 
 Thanks for visiting my profile! Have a great day! 😊
-```
-
-Feel free to replace the placeholders (e.g., `[Languages You Know]`, `[Your Current Learning Topics]`, etc.) with your actual details. This README will help others learn more about you and your work on GitHub.
